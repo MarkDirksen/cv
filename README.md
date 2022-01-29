@@ -1,38 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MarkDirksen/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_Naam: Mark Dirksen  
+Woonplaats: Ede  
+Geboortjaar: 1989_  
 
 ## Profiel
+Met mij kennis en kunde op het gebied van data oplossingen
 
 ## Werkervaring
 ### Data modeler (XBRL) / Data scientist - Visma  
+_Januari 2020 - Nu_
 
+Naast mijn deeltijd werkzaamheden als Data Modeler (zie hieronder) werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. Ik ben betrokken bij het hele proces. Van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die nu de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing wordt zal nu voor meerdere bedrijfen ingezet gaan worden.
 
 ### Data modeler (XBRL) - Thauris / EBPI / Visma  
 _Maart 2016 - Januari 2020_
