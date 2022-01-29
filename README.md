@@ -41,6 +41,13 @@ XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XB
 
 Naast mijn werkzaamheden als XBRL developer ben ik tijdens deze periode Product Owner geweest van een XBRL ontwikkeling tool. Deze tool moest blijven voldoen aan de verwachtingen bij het ontwerpen van steeds grotere en complexe XBRL. Als er tegen de limieten van de software opgelopen werd was het van belang creatief te zijn om toch een oplossing te vinden.
 
+## Vaardigheden
+- **Python** - Door middel van onlinecursussen en zelfstudie ben ik bekend met Python. Met de nadruk op toepassing op het gebied van data science. 
+- **AWS** - Training en deployment van machine learning modellen. Sagemaker, lambda, API gateway, S3.
+- **CI/CD** - Jenkins, maven, kubeflow. 
+- **Scrum / agile** - Teams binnen Visma werken agile. Bovendien heb ik ervaring met de rol als Product Owner. 
+- **XBRL / XML** - Diepgaande technische kennis op het gebeid van XBRL. Omdat XBRL een specificatie is die op XML leunt heb ik daarmee ook veel ervaring opgedaan met XML. 
+
 ## Opleidingen
 ### Mathematische Wetenschappen (MSC) - Universiteit Utrecht
 Focus op kansrekening en statistiek. O.a. de onderwerpen:
@@ -55,10 +62,6 @@ Focus op kansrekening en statistiek. O.a. de onderwerpen:
 
 ### Natuur- en Sterrekunde (BSC) - Universiteit Utrecht
 
-## Vaardigheden
-
-
 ## Talen
-
 -Nederlands  
 -Engels
