@@ -2,9 +2,6 @@ _Naam: Mark Dirksen
 Woonplaats: Ede  
 Geboortjaar: 1989_  
 
-## Profiel
-Met mij kennis en kunde op het gebied van data oplossingen
-
 ## Werkervaring
 ### Data modeler (XBRL) / Data scientist - Visma  
 _Januari 2020 - Nu_
