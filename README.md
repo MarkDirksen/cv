@@ -32,6 +32,7 @@ Focus op kansrekening en statistiek. O.a. de onderwerpen:regressie, classificati
 Masterscriptie: “DNA mixture analysis”. Wat is de bewijskracht van een DNA profiel waar meerdere personen aan hebben bijgedragen?
 
 ### Natuur- en Sterrekunde (BSC) - Universiteit Utrecht
+Bachelorscriptie: “Energy loss of the bottom quark at high Pt in heavy ion collisions” 
 
 ## Talen
 -Nederlands  
