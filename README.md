@@ -28,10 +28,23 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Profiel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarkDirksen/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Werkervaring
 
-### Support or Contact
+### Data modeler (XBRL) - Thauris / EBPI / Visma  
+_Maart 2016 - Januari 2020_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. Als developer was ik verantwoordelijk voor het opleveren van technisch en inhoudelijk hoogstaande XBRL. De focus lag voor mij altijd op het blijven ontwikkelen van werkprocessen om de efficiëntie en kwaliteit van het eindproduct te verhogen.
+
+Naast mijn werkzaamheden als XBRL developer (zie hieronder) ben ik tijdens deze periode Product Owner geweest van een XBRL ontwikkeling tool. Deze tool (en dan refereer ik niet naar mezelf maar naar de applicatie) moest blijven voldoen aan de verwachtingen bij het ontwerpen van steeds grotere en complexe XBRL. Als er tegen de limieten van de software opgelopen werd was het van belang creatief te zijn om toch een oplossing te vinden.
+
+## Opleidingen
+
+## Vaardigheden
+
+
+## Talen
+
+-Nederlands  
+-Engels
