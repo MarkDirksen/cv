@@ -27,15 +27,9 @@ Naast mijn werkzaamheden als XBRL developer ben ik tijdens deze periode Product 
 
 ## Opleidingen
 ### Mathematische Wetenschappen (MSC) - Universiteit Utrecht
-Focus op kansrekening en statistiek. O.a. de onderwerpen:
-- Regressie 
-- Classificatie 
-- Markovketens 
-- Probabilistische netwerken 
-- Bayesiaanse statistiek 
-- Speltheorie  
+Focus op kansrekening en statistiek. O.a. de onderwerpen:regressie, classificatie, markovketens, probabilistische netwerken, bayesiaanse statistiek, speltheorie.  
 
-**Masterscriptie:** “DNA mixture analysis”. Wat is de bewijskracht van een DNA profiel waar meerdere personen aan hebben bijgedragen?
+Masterscriptie: “DNA mixture analysis”. Wat is de bewijskracht van een DNA profiel waar meerdere personen aan hebben bijgedragen?
 
 ### Natuur- en Sterrekunde (BSC) - Universiteit Utrecht
 
