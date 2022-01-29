@@ -31,15 +31,29 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ## Profiel
 
 ## Werkervaring
+### Data modeler (XBRL) / Data scientist - Visma  
+
 
 ### Data modeler (XBRL) - Thauris / EBPI / Visma  
 _Maart 2016 - Januari 2020_
 
-XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. Als developer was ik verantwoordelijk voor het opleveren van technisch en inhoudelijk hoogstaande XBRL. De focus lag voor mij altijd op het blijven ontwikkelen van werkprocessen om de efficiëntie en kwaliteit van het eindproduct te verhogen.
+XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. Als data modeler was ik verantwoordelijk voor het opleveren van technisch en inhoudelijk hoogstaande XBRL. De focus lag voor mij altijd op het blijven ontwikkelen van werkprocessen om de efficiëntie en kwaliteit van het eindproduct te verhogen.
 
-Naast mijn werkzaamheden als XBRL developer (zie hieronder) ben ik tijdens deze periode Product Owner geweest van een XBRL ontwikkeling tool. Deze tool (en dan refereer ik niet naar mezelf maar naar de applicatie) moest blijven voldoen aan de verwachtingen bij het ontwerpen van steeds grotere en complexe XBRL. Als er tegen de limieten van de software opgelopen werd was het van belang creatief te zijn om toch een oplossing te vinden.
+Naast mijn werkzaamheden als XBRL developer ben ik tijdens deze periode Product Owner geweest van een XBRL ontwikkeling tool. Deze tool moest blijven voldoen aan de verwachtingen bij het ontwerpen van steeds grotere en complexe XBRL. Als er tegen de limieten van de software opgelopen werd was het van belang creatief te zijn om toch een oplossing te vinden.
 
 ## Opleidingen
+### Mathematische Wetenschappen (MSC) - Universiteit Utrecht
+Focus op kansrekening en statistiek. O.a. de onderwerpen:
+- Regressie 
+- Classificatie 
+- Markovketens 
+- Probabilistische netwerken 
+- Bayesiaanse statistiek 
+- Speltheorie  
+
+**Masterscriptie:** “DNA mixture analysis”. Wat is de bewijskracht van een DNA profiel waar meerdere personen aan hebben bijgedragen?
+
+### Natuur- en Sterrekunde (BSC) - Universiteit Utrecht
 
 ## Vaardigheden
 
