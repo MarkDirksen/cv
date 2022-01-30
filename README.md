@@ -32,5 +32,5 @@ Masterscriptie: “DNA mixture analysis”. Wat is de bewijskracht van een DNA p
 Bachelorscriptie: “Energy loss of the bottom quark at high Pt in heavy ion collisions” 
 
 ## Talen
--Nederlands  
--Engels
+- Nederlands  
+- Engels  
