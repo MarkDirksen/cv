@@ -19,7 +19,7 @@ Naast mijn werkzaamheden als data modeler ben ik tijdens deze periode product ow
 - **Python**  
 - **AWS** - Training en deployment van machine learning modellen. Sagemaker, lambda, API gateway, S3.
 - **CI/CD** - Jenkins, maven, kubeflow. 
-- **Scrum / agile** - Teams binnen Visma werken agile. Bovendien heb ik ervaring met de rol als Product Owner. 
+- **Scrum / agile**  
 - **XBRL / XML** - Diepgaande technische kennis op het gebeid van XBRL. Omdat XBRL een specificatie is die op XML leunt heb ik daarmee ook veel ervaring opgedaan met XML. 
 
 ## Opleidingen
