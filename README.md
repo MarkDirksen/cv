@@ -6,7 +6,7 @@ Geboortjaar: 1989_
 ### Data modeler (XBRL) / Data scientist - Visma  
 _Januari 2020 - Nu_
 
-Naast mijn deeltijd werkzaamheden als data modeler (zie hieronder) werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. De werkzaamheden betrekken het hele proces, van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die nu de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing zal nu voor meerdere bedrijven ingezet gaan worden.
+Naast mijn deeltijd werkzaamheden als data modeler (zie hieronder) werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. De werkzaamheden betrekken het hele proces, van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing zal nu voor meerdere bedrijven ingezet gaan worden.
 
 ### Data modeler (XBRL) - Thauris / EBPI / Visma  
 _Maart 2016 - Januari 2020_
@@ -24,7 +24,7 @@ Naast mijn werkzaamheden als data modeler ben ik tijdens deze periode product ow
 
 ## Opleidingen
 ### Mathematische Wetenschappen (MSC) - Universiteit Utrecht
-Focus op kansrekening en statistiek. O.a. de onderwerpen:regressie, classificatie, markovketens, probabilistische netwerken, bayesiaanse statistiek, speltheorie.  
+Focus op kansrekening en statistiek. O.a. de onderwerpen: regressie, classificatie, markovketens, probabilistische netwerken, bayesiaanse statistiek, speltheorie.  
 
 Masterscriptie: “DNA mixture analysis”. Wat is de bewijskracht van een DNA profiel waar meerdere personen aan hebben bijgedragen?
 
