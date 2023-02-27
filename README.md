@@ -6,7 +6,11 @@ Geboortjaar: 1989_
 ### Data scientist - Visma  
 _Januari 2020 - Nu_
 
-Naast mijn deeltijd werkzaamheden als data modeler (zie hieronder) werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. De werkzaamheden betrekken het hele proces, van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing zal nu voor meerdere bedrijven ingezet gaan worden.
+Sinds 2020 werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. De werkzaamheden betrekken het hele proces, van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing zal nu voor meerdere bedrijven ingezet gaan worden.  
+
+Een recent project is het opzetten van een rapportage tool wat gebruikt kan worden om documenten te doorzoeken met behulp van de nieuwste NLP technieken. Die resultaten worden vervolgens automatisch herschreven naar een stuk tekst voor rapportage doeleinden. Belangrijk hier is de afweging tussen accuuraatheid en de doorlooptijd van het proces. 
+
+Tevens is ons team verantwoordelijk voor het helpen van Team Jumbo-Visma met machine learning oplossingen. Voor het wielren team leveren wij een calorie prediction en een talent identification oplossing. Wij werken samen met studenten van de Universiteit van Maastricht om hier verder aan te ontwikkelen. Als onderdeel hiervan begeleid ik de studenten in hun stage periode en bij de afstudeerscriptie. 
 
 ### Data modeler (XBRL) - Thauris / EBPI / Visma  
 _Maart 2016 - Januari 2020_
@@ -17,7 +21,10 @@ Naast mijn werkzaamheden als data modeler ben ik tijdens deze periode product ow
 
 ## Vaardigheden
 - **Python**  
+- **Docker**  
 - **AWS** - Training en deployment van machine learning modellen. Sagemaker, lambda, API gateway, S3.
+- **Machine learning** - Modellen maken, in productie brengen en processen automatiseren.
+- **NLP** - Semantic search.
 - **CI/CD** - Jenkins, maven, kubeflow. 
 - **Scrum / agile**  
 - **XBRL / XML** - Diepgaande technische kennis op het gebeid van XBRL. Omdat XBRL een specificatie is die op XML leunt heb ik daarmee ook veel ervaring opgedaan met XML. 
