@@ -3,7 +3,7 @@ Woonplaats: Ede
 Geboortjaar: 1989_  
 
 ## Werkervaring
-### Data modeler (XBRL) / Data scientist - Visma  
+### Data scientist - Visma  
 _Januari 2020 - Nu_
 
 Naast mijn deeltijd werkzaamheden als data modeler (zie hieronder) werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. De werkzaamheden betrekken het hele proces, van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing zal nu voor meerdere bedrijven ingezet gaan worden.
