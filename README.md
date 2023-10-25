@@ -3,6 +3,11 @@ Woonplaats: Ede
 Geboortjaar: 1989_  
 
 ## Werkervaring
+### Scala developer - Visma  
+_Juni 2023 - Nu_
+
+XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. 
+
 ### Data scientist - Visma  
 _Januari 2020 - Nu_
 
@@ -15,7 +20,7 @@ Tevens is ons team verantwoordelijk voor het helpen van Team Jumbo-Visma met mac
 ### Data modeler (XBRL) - Thauris / EBPI / Visma  
 _Maart 2016 - Januari 2020_
 
-XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. Als data modeler was ik verantwoordelijk voor het opleveren van technisch en inhoudelijk hoogstaande XBRL. De focus lag voor mij altijd op het blijven ontwikkelen van werkprocessen om de efficiëntie en kwaliteit van het eindproduct te verhogen.
+Als data modeler was ik verantwoordelijk voor het opleveren van technisch en inhoudelijk hoogstaande XBRL. De focus lag voor mij altijd op het blijven ontwikkelen van werkprocessen om de efficiëntie en kwaliteit van het eindproduct te verhogen.
 
 Naast mijn werkzaamheden als data modeler ben ik tijdens deze periode product owner geweest van een XBRL ontwikkeling tool. Deze tool moest blijven voldoen aan de verwachtingen bij het ontwerpen van steeds grotere en complexe XBRL. Als er tegen de limieten van de software opgelopen werd was het van belang creatief te zijn om toch een oplossing te vinden.
 
