@@ -6,10 +6,10 @@ Geboortjaar: 1989_
 ### Scala developer - Visma  
 _Juni 2023 - Nu_
 
-XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. 
+Voor de verwerking van XBRL berichten is correcte validatie en transformatie van groot belang.  XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. Binnen Visma wordt gebruikgemaakt van verschillende producten die XBRL kunnen valideren, of om XBRL te transformeren naar bijvoorbeeld json. Extern wordt gebruikgemaakt van een validatie service specifiek voor de XBRL berichten. Het correct interpreteren van de XML / XBRL specificatie en vooral ook toekomstbestendige scala implementatie zorgen hier voor een leuke uitdaging. 
 
 ### Data scientist - Visma  
-_Januari 2020 - Nu_
+_Januari 2020 - Juni 2023_
 
 Sinds 2020 werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. De werkzaamheden betrekken het hele proces, van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing zal nu voor meerdere bedrijven ingezet gaan worden.  
 
@@ -25,7 +25,8 @@ Als data modeler was ik verantwoordelijk voor het opleveren van technisch en inh
 Naast mijn werkzaamheden als data modeler ben ik tijdens deze periode product owner geweest van een XBRL ontwikkeling tool. Deze tool moest blijven voldoen aan de verwachtingen bij het ontwerpen van steeds grotere en complexe XBRL. Als er tegen de limieten van de software opgelopen werd was het van belang creatief te zijn om toch een oplossing te vinden.
 
 ## Vaardigheden
-- **Python**  
+- **Python**
+- **Scala**  
 - **Docker**  
 - **AWS** - Training en deployment van machine learning modellen. Sagemaker, lambda, API gateway, S3.
 - **Machine learning** - Modellen maken, in productie brengen en processen automatiseren.
